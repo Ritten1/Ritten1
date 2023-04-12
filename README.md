@@ -21,3 +21,9 @@ Here are some ideas to get you started:
   </h1>
    <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
 </p>
+
+<p>
+  <h2>My Record:</h2> 
+  <a herf='https://juejin.cn/user/695342836751885'></a>
+</P>
+
