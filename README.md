@@ -26,6 +26,9 @@ Here are some ideas to get you started:
   <h2>my record:</h2>
   <p>
   <a target="_blank"  href='https://juejin.cn/user/695342836751885'>掘金</a>
+  <!-- posts start -->
+这里会插入生成的文章列表
+<!-- posts end -->
   </p>
   <p>
     <a target="_blank"  href='https://www.yuque.com/u21218644'>语雀</a>
