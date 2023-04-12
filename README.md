@@ -23,7 +23,11 @@ Here are some ideas to get you started:
 </p>
 
 <!-- posts start -->
-这里会插入生成的文章列表
+<ul>
+
+</ul>
+
+</ul>
 <!-- posts end -->
 
 <p>
