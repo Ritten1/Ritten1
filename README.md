@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 <p>
   <h2>My Record:</h2> 
-  <a herf='https://juejin.cn/user/695342836751885'></a>
+  <a target="_blank"  href='https://juejin.cn/user/695342836751885'>掘金</a>
+  <a target="_blank"  href='https://www.yuque.com/u21218644'>语雀</a>
 </P>
 
