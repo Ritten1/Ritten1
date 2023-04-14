@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!-- posts start -->
 <ul>
 <ul>
-<li>[16小时前] <a href="https://juejin.cn/post/7221053812635418661">认识前端规范</a></li>
+<li>[1天前] <a href="https://juejin.cn/post/7221053812635418661">认识前端规范</a></li>
 <li>[1月前] <a href="https://juejin.cn/post/7208753261686308925">位运算在项目里的小应用</a></li>
 <li>[1月前] <a href="https://juejin.cn/post/7208349474841215034">GraphQL学习</a></li>
 <li>[1月前] <a href="https://juejin.cn/post/7208003574902947901">GatsbyJS初始</a></li>
