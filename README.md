@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!-- posts start -->
 <ul>
 <ul>
-<li>[28天前] <a href="https://juejin.cn/post/7226175610211614778">前端错误捕获</a></li>
+<li>[29天前] <a href="https://juejin.cn/post/7226175610211614778">前端错误捕获</a></li>
 <li>[1月前] <a href="https://juejin.cn/post/7223973532354494520">如何优雅的渲染下拉列表</a></li>
 <li>[1月前] <a href="https://juejin.cn/post/7221820151397072933">如何全局控制组件行为（eg:快捷键实现input自动聚焦）</a></li>
 <li>[1月前] <a href="https://juejin.cn/post/7221053812635418661">认识前端规范</a></li>
