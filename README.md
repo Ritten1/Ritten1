@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <li>[3月前] <a href="https://juejin.cn/post/7208349474841215034">GraphQL学习</a></li>
 <li>[3月前] <a href="https://juejin.cn/post/7208003574902947901">GatsbyJS初始</a></li>
 <li>[4月前] <a href="https://juejin.cn/post/7200587301742247996">我的 React 应用程序渲染是否过于频繁？</a></li>
-<li>[10月前] <a href="https://juejin.cn/post/7127556033748140040">性能优化--列表虚拟化</a></li>
+<li>[11月前] <a href="https://juejin.cn/post/7127556033748140040">性能优化--列表虚拟化</a></li>
 <li>[12月前] <a href="https://juejin.cn/post/7115226775415685156">封装一个监听scroll事件的组件</a></li>
 </ul>
 
