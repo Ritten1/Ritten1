@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <!-- posts start -->
 <ul>
 <ul>
+<li>[undefined] <a href="https://juejin.cn/post/7267022657483751476">React合成事件原理</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7226175610211614778">前端错误捕获</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7223973532354494520">如何优雅的渲染下拉列表</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7221820151397072933">如何全局控制组件行为（eg:快捷键实现input自动聚焦）</a></li>
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 <li>[undefined] <a href="https://juejin.cn/post/7208003574902947901">GatsbyJS初始</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7200587301742247996">我的 React 应用程序渲染是否过于频繁？</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7127556033748140040">性能优化--列表虚拟化</a></li>
-<li>[undefined] <a href="https://juejin.cn/post/7115226775415685156">封装一个监听scroll事件的组件</a></li>
 </ul>
 
 </ul>
