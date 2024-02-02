@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <li>[9月前] <a href="https://juejin.cn/post/7221053812635418661">认识前端规范</a></li>
 <li>[10月前] <a href="https://juejin.cn/post/7208753261686308925">位运算在项目里的小应用</a></li>
 <li>[10月前] <a href="https://juejin.cn/post/7208349474841215034">GraphQL学习</a></li>
-<li>[10月前] <a href="https://juejin.cn/post/7208003574902947901">GatsbyJS初始</a></li>
+<li>[11月前] <a href="https://juejin.cn/post/7208003574902947901">GatsbyJS初始</a></li>
 <li>[11月前] <a href="https://juejin.cn/post/7200587301742247996">我的 React 应用程序渲染是否过于频繁？</a></li>
 </ul>
 <!-- posts end -->
