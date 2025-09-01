@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <!-- posts start -->
 <ul>
-<li>[1年前] <a href="https://juejin.cn/post/7273434821811863604">Promise解决接口数据覆盖问题</a></li>
+<li>[2年前] <a href="https://juejin.cn/post/7273434821811863604">Promise解决接口数据覆盖问题</a></li>
 <li>[2年前] <a href="https://juejin.cn/post/7267022657483751476">React合成事件原理</a></li>
 <li>[2年前] <a href="https://juejin.cn/post/7226175610211614778">前端错误捕获</a></li>
 <li>[2年前] <a href="https://juejin.cn/post/7223973532354494520">如何优雅的渲染下拉列表</a></li>
