@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <li>[3月前] <a href="https://juejin.cn/post/7589706646214836224">把第一次上线小程序的机会放在2025的尾巴</a></li>
 <li>[2年前] <a href="https://juejin.cn/post/7273434821811863604">Promise解决接口数据覆盖问题</a></li>
 <li>[2年前] <a href="https://juejin.cn/post/7267022657483751476">React合成事件原理</a></li>
-<li>[2年前] <a href="https://juejin.cn/post/7226175610211614778">前端错误捕获</a></li>
+<li>[3年前] <a href="https://juejin.cn/post/7226175610211614778">前端错误捕获</a></li>
 <li>[3年前] <a href="https://juejin.cn/post/7223973532354494520">如何优雅的渲染下拉列表</a></li>
 <li>[3年前] <a href="https://juejin.cn/post/7221820151397072933">如何全局控制组件行为（eg:快捷键实现input自动聚焦）</a></li>
 <li>[3年前] <a href="https://juejin.cn/post/7221053812635418661">认识前端规范</a></li>
